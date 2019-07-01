@@ -10,7 +10,7 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 1. According to data frame of gender demographic, it is easy to find out that much more male players than female players. The percentage of male players is 84.03%. It is almost 6 times more than the percentage of female players. In other hand, male players spend more money to purchase the games than female’s.
 
-![gender](gender_demographic.png)
+![gender](/README_images/gender_demographic.png)
 
 2. According to data frame of age demographic, age group that is from 20 to 24 is a group of the most majority players. There is the least people who play games at age over 40 years old .
 
