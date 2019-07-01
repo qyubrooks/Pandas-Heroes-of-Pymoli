@@ -14,8 +14,8 @@ Like many others in its genre, the game is free-to-play, but players are encoura
 
 2. According to data frame of age demographic, age group that is from 20 to 24 is a group of the most majority players. There is the least people who play games at age over 40 years old .
 
-![age]((Readme_images/age_demographic.png)
+![age](Readme_images/age_demographic.png)
 
 3. According to data frame of the most popular items, item ID is 178 and item name is Oathbreaker, Last Hope of the Breaking Storm. It is the most popular game, but it is not the cheapest game or the most expensive game. Fiery Glass Grusader is the second popular game.
 
-![popular]((Readme_images/most_popular_item.png)
+![popular](Readme_images/most_popular_item.png)
