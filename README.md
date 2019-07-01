@@ -1,69 +1,21 @@
 # Pandas-Heroes-of-Pymoli
 
-
-## Heroes of Pymoli
+## Background
 
 I've been assigned the task of analyzing the data for a gaming company most recent fantasy game Heroes of Pymoli.
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like me to generate a report that breaks down the game's purchasing data into meaningful insights.
 
-The final report includes each of the following:
+## Three Observable Trends Based on The Data Analysis
 
-### Player Count
+1. According to data frame of gender demographic, it is easy to find out that much more male players than female players. The percentage of male players is 84.03%. It is almost 6 times more than the percentage of female players. In other hand, male players spend more money to purchase the games than female’s.
 
-* Total Number of Players
+![gender](gender_demographic.png)
 
-### Purchasing Analysis (Total)
+2. According to data frame of age demographic, age group that is from 20 to 24 is a group of the most majority players. There is the least people who play games at age over 40 years old .
 
-* Number of Unique Items
-* Average Purchase Price
-* Total Number of Purchases
-* Total Revenue
+![age](age_demographic.png)
 
-### Gender Demographics
+3. According to data frame of the most popular items, item ID is 178 and item name is Oathbreaker, Last Hope of the Breaking Storm. It is the most popular game, but it is not the cheapest game or the most expensive game. Fiery Glass Grusader is the second popular game.
 
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
-
-### Purchasing Analysis (Gender)
-
-* The below each broken by gender
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Gender
-
-### Age Demographics
-
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-  * Average Purchase Total per Person by Age Group
-
-### Top Spenders
-
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
-  * SN
-  * Purchase Count
-  * Average Purchase Price
-  * Total Purchase Value
-
-### Most Popular Items
-
-* Identify the 5 most popular items by purchase count, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
-
-### Most Profitable Items
-
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
-  * Item ID
-  * Item Name
-  * Purchase Count
-  * Item Price
-  * Total Purchase Value
+![popular](most_popular_item.png)
