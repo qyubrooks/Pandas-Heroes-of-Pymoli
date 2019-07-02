@@ -6,6 +6,11 @@ I've been assigned the task of analyzing the data for a gaming company most rece
 
 Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like me to generate a report that breaks down the game's purchasing data into meaningful insights.
 
+## Technologies
+
+* Pandas
+* Jupyter
+
 ## Three Observable Trends Based on The Data Analysis
 
 1. According to data frame of gender demographic, it is easy to find out that much more male players than female players. The percentage of male players is 84.03%. It is almost 6 times more than the percentage of female players. In other hand, male players spend more money to purchase the games than female’s.
